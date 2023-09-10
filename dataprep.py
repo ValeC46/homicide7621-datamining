@@ -12,4 +12,4 @@ data = pd.read_csv(url)
 data.drop(columns=['Ori', 'Agency', 'Source', 'StateName', 'ActionType', 'Subcircum', 'FileDate', 'MSA'], inplace=True)
 print(data.info())
 
-data.to_csv('csv/rawdata.csv')
+data.to_csv('csv/rawdata.csv', index=False)
