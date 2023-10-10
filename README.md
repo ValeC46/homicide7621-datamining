@@ -32,3 +32,4 @@ Here is a brief description of what each file does and the order to run it:<br/>
 3. ***descstats.py:*** creates files with the stats for both victim and offender age, as well as the count of type of murder and relationship between victim and offender<br/>
 4. ***datavisualization.py:*** creates boxplot and pie charts for the results of the previous file<br/>
 5. ***anova.py:*** check the variance in between the victim's age distributions as well as the offender's, can compare to the image created previously titled _boxplot\_State\_Off.png_ and _boxplot\_State.png_<br/>
+6. ***linearregression.py:*** creates a linear regression map for victim and offender age as well as a correlation map
