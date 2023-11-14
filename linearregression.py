@@ -5,38 +5,38 @@ import pandas as pd
 import numpy as np
 import seaborn as sn
 
-# def transform_variable(df: pd.DataFrame, x:str):
-#     if isinstance(df[x][0], numbers.Number):
-#         return df[x]
-#     else:
-#         return pd.Series([i for i in range(0, len(df[x]))])
+def transform_variable(df: pd.DataFrame, x:str):
+    if isinstance(df[x][0], numbers.Number):
+        return df[x]
+    else:
+        return pd.Series([i for i in range(0, len(df[x]))])
 
-# def linear_regression(df: pd.DataFrame, x:str, y: str):
-#     fixed_x = transform_variable(df, x)
-#     model= sm.OLS(df[y],sm.add_constant(fixed_x)).fit()
-#     print(model.summary())
+def linear_regression(df: pd.DataFrame, x:str, y: str):
+    fixed_x = transform_variable(df, x)
+    model= sm.OLS(df[y],sm.add_constant(fixed_x)).fit()
+    print(model.summary())
 
-#     coef = pd.read_html(model.summary().tables[1].as_html(),header=0,index_col=0)[0]['coef']
-#     df.plot(x=x,y=y, kind='scatter')
-#     plt.plot(df[x],[pd.DataFrame.mean(df[y]) for _ in fixed_x.items()], color='gold')
-#     plt.plot(df[x],[ coef.values[1] * x + coef.values[0] for _, x in fixed_x.items()], color='red')
-#     plt.xticks(rotation=90)
-#     plt.savefig(f'img/lr_{y}_{x}.png')
-#     plt.close()
+    coef = pd.read_html(model.summary().tables[1].as_html(),header=0,index_col=0)[0]['coef']
+    df.plot(x=x,y=y, kind='scatter')
+    plt.plot(df[x],[pd.DataFrame.mean(df[y]) for _ in fixed_x.items()], color='gold')
+    plt.plot(df[x],[ coef.values[1] * x + coef.values[0] for _, x in fixed_x.items()], color='red')
+    plt.xticks(rotation=90)
+    plt.savefig(f'img/lr_{y}_{x}.png')
+    plt.close()
 
 data = pd.read_csv('csv/cleandata.csv')
 
-# cleandata = data.replace(999, np.NaN)
+cleandata = data.replace(999, np.NaN)
 
-# #Linear Regression for Victim Age
-# vicage_lin = cleandata.groupby("Year")[['VicAge']].aggregate(pd.DataFrame.mean)
-# vicage_lin.reset_index(inplace=True)
-# linear_regression(vicage_lin, "Year", "VicAge")
+#Linear Regression for Victim Age
+vicage_lin = cleandata.groupby("Year")[['VicAge']].aggregate(pd.DataFrame.mean)
+vicage_lin.reset_index(inplace=True)
+linear_regression(vicage_lin, "Year", "VicAge")
 
-# #Linear Regression for Offender Age
-# offage_lin = cleandata.groupby("Year")[['OffAge']].aggregate(pd.DataFrame.mean)
-# offage_lin.reset_index(inplace=True)
-# linear_regression(offage_lin, "Year", "OffAge")
+#Linear Regression for Offender Age
+offage_lin = cleandata.groupby("Year")[['OffAge']].aggregate(pd.DataFrame.mean)
+offage_lin.reset_index(inplace=True)
+linear_regression(offage_lin, "Year", "OffAge")
 
 #Correlacion
 data.drop(columns=['Agency', 'Solved', 'Month', 'Situation', 'Circumstance', 'Date'], inplace=True)
