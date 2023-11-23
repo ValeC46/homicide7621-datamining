@@ -1,0 +1,363 @@
+Crime Data Explorer
+
+Crime Data Explorer (.gov)
+https://cde.ucr.cjis.gov
+The FBI's Crime Data Explorer (CDE) aims to provide transparency, create easier access, and expand awareness of criminal, and noncriminal, law enforcement data ...
+
+FBI — Murder
+
+Federal Bureau of Investigation (.gov)
+https://ucr.fbi.gov › crime-in-the-u.s › topic-pages
+Definition. The FBI's Uniform Crime Reporting (UCR) Program defines murder and nonnegligent manslaughter as the willful (nonnegligent) killing of one human ...
+
+FBI Releases 2022 Crime in the Nation Statistics
+
+Federal Bureau of Investigation (.gov)
+https://www.fbi.gov › news › press-releases › fbi-relea...
+Oct 16, 2023 — The FBI released detailed data on over 11 million criminal offenses reported to the Uniform Crime Reporting (UCR) Program, largely through ...
+
+The Nation's Two Measures of Homicide
+
+Bureau of Justice Statistics (.gov)
+https://bjs.ojp.gov › content › pub › pdf › ntmh
+Murder and nonnegligent manslaughter homicides include cases that are suspected to be murders, violence-related manslaughters, law enforcement- related killings ...
+
+FastStats - Homicide
+
+Centers for Disease Control and Prevention (.gov)
+https://www.cdc.gov › nchs › fastats › homicide
+All homicides. Number of deaths: 26,031; Deaths per 100,000 population: 7.8. Source: National Vital Statistics System – Mortality Data (2021) via CDC WONDER ...
+
+Global study on homicide
+
+United Nations Office on Drugs and Crime
+https://www.unodc.org › unodc › data-and-analysis
+2019 Edition. Since the publication of the previous edition in 2014, the Global Study on Homicide has been expanded into a special six-booklet format, ...
+
+Find crime statistics | USAGov
+
+USA.gov
+https://www.usa.gov › crime-statistics
+Jul 20, 2023 — Find crime statistics using the FBI's Crime Data Explorer, which reports on different types of crime nationally or in your state, county, ...
+
+Crime in the United States
+
+Wikipedia
+https://en.wikipedia.org › wiki › Crime_in_the_United...
+Violent criminal history is defined by the FBI as any offense, of a violent felony, including rape, homicide, aggravated assault, and robbery. People tend to ...
+Datasets
+
+U.S.: reported murder and nonnegligent manslaughter cases 1990-2022https://www.statista.com/statistics/191134/reported-murder-and-nonnegligent-manslaughter-cases-in-the-us-since-1990/
+Oct 20, 2023 — How many criminal homicides were there in the U.S.? In 2022, there were 21,156 reported cases of murder or non-negligent manslaughter in the United States, a decrease from 22,536 cases ...
+
+Uniform Crime Reports [United States]: Supplementary Homicide Reports, 1976-1999https://www.icpsr.umich.edu/web/NACJD/studies/3180
+Mar 30, 2006 — These data provide incident-level information on criminal homicides including location, circumstances, and method of offense, as well as demographic characteristics of victims and ...
+Format(s): ascii, sas, ...
+
+Uniform Crime Reporting Program Data: Supplementary Homicide Reports, United States, 2019https://www.icpsr.umich.edu/web/NACJD/studies/38786
+Sep 28, 2023 — The UNIFORM CRIME REPORTING PROGRAM DATA: SUPPLEMENTARY HOMICIDE REPORTS, 2019 (SHR) provide detailed information on criminal homicides reported to the police. These homicides ...
+Format(s): ascii, delimited, ...
+More datasets
+
+Reported violent crime rate in the U.S. 1990-2022
+
+Statista
+https://www.statista.com › statistics › reported-violent-...
+Oct 20, 2023 — In 2022, the violent crime rate in the United States was 369.8 cases per 100000 of the population.
+
+reported murder and nonnegligent manslaughter cases 2022
+
+Statista
+https://www.statista.com › statistics › reported-murder-...
+Oct 20, 2023 — How many criminal homicides were there in the U.S.? In 2022, there were 21156 reported cases of murder or non-negligent manslaughter in the ...
+
+Crime Trends in U.S. Cities: Mid-Year 2023 Update
+
+Council on Criminal Justice
+https://counciloncj.org › mid-year-2023-crime-trends
+Jul 12, 2023 — The most notable exception is the large increase in motor vehicle theft. The number of homicides in the 30 study cities providing homicide data ...
+
+What we know about the increase in U.S. murders in 2020
+
+Pew Research Center
+https://www.pewresearch.org › ... › Political Issues
+Oct 27, 2021 — The U.S. murder rate rose 30% between 2019 and 2020 – the largest single-year increase in more than a century.
+
+District Crime Data at a Glance | mpdc
+
+DC.gov
+https://mpdc.dc.gov › page › district-crime-data-glance
+2023 Year-to-Date Crime Comparison* ; Robbery, 1,882, 3,150 ; Violent Crime - Total, 3,475, 4,854 ; Burglary, 946, 987 ; Motor Vehicle Theft, 3,195, 6,248 ...
+
+Murders in U.S. Fell 6 Percent in 2022 as Violent Crime ...
+
+The New York Times
+https://www.nytimes.com › fbi-crime-data-murders
+Oct 16, 2023 — But young people make up a growing share of those dying by gun violence, which is now the leading cause of death for children in the United ...
+
+FBI Releases 2021 Crime Statistics
+
+Homeland Security Digital Library
+https://www.hsdl.org › fbi-releases-2021-crime-statistics
+Oct 5, 2022 — Among the tools available on the website, one can view trends in violent crime dating back to 1986, lookup crime statistics based on type of ...
+
+FBI Crime Report Estimates Homicides Up 4.3% in 2021
+
+Time Magazine
+https://time.com › U.S. › Crime
+Oct 5, 2022 — The estimated 22,900 murders and other killings last year would bring the nation's homicide rate to 6.9 per 100,000—the highest in almost 25 ...
+
+2023 Current State of the Union: US Crime, Police, and ...
+
+USAFacts
+https://usafacts.org › state-of-the-union › crime-justice
+Is the criminal justice system working? Is the country getting safer? Violent crime fell by 1.7% in 2021 after growing by 4.6% in 2020. Property crime ...
+
+2022 Homicide Statistics for 24 U.S. Cities
+
+Rochester Institute of Technology
+https://www.rit.edu › sites › files › docs › SOC
+by I Altheimer — Compared to New York metropolitan cities in our sample, Rochester had the highest homicide rate. Like in previous years, Buffalo, Syracuse, and New York City ...
+
+Homicide Rates in the US, 1900-2006
+National Academies
+https://sites.nationalacademies.org › webpage
+The Federal Bureau of Investigation reported that the murder rate fell by 10 percent in the United States during the first six months of 2009,.
+
+Easy Access to the FBI's Supplementary Homicide Reports
+
+Office of Juvenile Justice and Delinquency Prevention (.gov)
+https://www.ojjdp.gov › ojstatbb › ezashr
+Dec 9, 2021 — (EZASHR). provides access to more than thirty years of national and state data on homicide victims and known homicide offenders, including ...
+
+US crime: Is America seeing a surge in violence?
+
+BBC
+https://www.bbc.com › news
+Oct 24, 2022 — We've taken a look at the violent crime trends across the US. Is violent crime going up? According to incomplete data released by the FBI, ...
+
+New report points to homicide rate declines in US cities ...
+
+AP News
+https://apnews.com › article › crime-american-cities-h...
+Jul 21, 2023 — Homicides are declining in a cross-section of American cities, though their numbers remain higher than before the coronavirus pandemic took ...
+
+New report points to homicide rate declines in U.S. cities ...
+
+PBS
+https://www.pbs.org › newshour › nation › new-report...
+Jul 21, 2023 — Homicides are declining in a cross-section of American cities, though their numbers remain higher than before the coronavirus pandemic took ...
+
+Supplementary Homicide Reports, United States, 2019 - ICPSR
+
+ICPSR
+https://www.icpsr.umich.edu › web › NACJD › studies
+Sep 28, 2023 — The UNIFORM CRIME REPORTING PROGRAM DATA: SUPPLEMENTARY HOMICIDE REPORTS, 2019 (SHR) provide detailed information on criminal homicides reported ...
+
+US records highest-ever increase in nation's homicide rate ...
+
+CNN.com
+https://www.cnn.com › 2021/10/06 › health › us-homici...
+Oct 6, 2021 — The US has just recorded its highest-ever increase in rates of homicide in modern history, according to the CDC.
+
+Understanding Recent Trends in Violent Crime
+
+Brennan Center for Justice
+https://www.brennancenter.org › research-reports › m...
+Jul 12, 2022 — Crime rates changed dramatically across the United States in 2020. Most significantly, the murder rate — that is, the number of murders per ...
+
+Homicides declined and car thefts soared in first half of 2023
+
+USA Today
+https://www.usatoday.com › nation › 2023/07/20 › ho...
+Jul 20, 2023 — Most violent crimes are declining in American cities but remain at elevated levels compared to before the COVID-19 pandemic, a new report ...
+
+America's high homicide rate
+
+N-IUSSP
+https://www.niussp.org › All articles
+Feb 6, 2023 — America leads advanced developed countries in terms of guns per capita and homicide rates, although with substantial variation by state, ...
+
+Homicides by Police: Comparing Counts From the National ...
+
+National Institutes of Health (.gov)
+https://www.ncbi.nlm.nih.gov › articles › PMC4985110
+by C Barber · 2016 · Cited by 150 — To evaluate the National Violent Death Reporting System (NVDRS) as a surveillance system for homicides by law enforcement officers. Methods. We assessed ...
+
+'It's just crazy': 12 major cities hit all-time homicide records
+
+ABC News
+https://abcnews.go.com › story
+Dec 8, 2021 — At least 12 major U.S. cities have broken annual homicide records in 2021 -- and there's still three weeks to go in the year.
+
+Los Angeles Murders and Homicides - The Homicide Report ...
+
+Los Angeles Times
+https://homicide.latimes.com
+Los Angeles County murder and homicides victims, and their stories.
+
+Murder Rate of Death Penalty States Compared to Non ...
+
+Death Penalty Information Center
+https://deathpenaltyinfo.org › ... › Murder Rates
+(Data for each year taken from the FBI's Uniform Crime Reports. Murder rates calculated by dividing the total number of murders by the total population in ...
+
+Annual State Summary Crime Data Reports
+
+Florida Department of Law Enforcement
+https://www.fdle.state.fl.us › CJAB › UCR › Annual-R...
+Florida's Uniform Crime Reports program has traditionally collected crime data in a summary format. In summary -based reporting, offenses are placed into a ...
+
+US records largest annual increase in murders in six ...
+
+The Guardian
+https://www.theguardian.com › us-news › sep › us-mu...
+Sep 28, 2021 — National statistics show that no other crime category surged to the same extent that murder did: the nation's overall violent crime rate ...
+
+Crime Dashboard
+
+San Francisco Police Department
+https://www.sanfranciscopolice.org › crime-data › cri...
+6 days ago — An unexpected error occurred. If you continue to receive this error please contact your Tableau Server Administrator.
+
+Gun Violence in America
+
+Everytown Research & Policy
+https://everytownresearch.org › report › gun-violence-...
+May 19, 2020 — Gun violence in America is at a crisis point. Every day, more than 110 people are killed from guns and more than 200 are shot and wounded.
+
+City of Chesterfield, Missouri | Crime Reports
+
+Chesterfield
+https://www.chesterfield.mo.us › crime-statistics
+The Chesterfield Police Department began submitting NIBRS data in April 2020. Through NIBRS, law enforcement agencies report data on each offense and arrest ...
+
+Homicide
+
+Fox News
+https://www.foxnews.com › category › crime › homici...
+Michigan man charged with murder in wife's 2021 disappearance · Michigan 3 hours ago ...
+
+Hate Crimes | Facts and Statistics
+
+Department of Justice (.gov)
+https://www.justice.gov › hatecrimes › hate-crime-stati...
+FBI Releases 2022 Hate Crime Statistics. The FBI's Uniform Crime Reporting (UCR) Program serves as the national repository for crime data voluntarily ...
+
+Pages - Statistics
+Las Vegas Metropolitan Police Department
+https://www.lvmpd.com › en-us › Pages › Statistics
+​The Las Vegas Metropolitan Police Department strives to be as transparent as possible to improve trust in our community, while protecting our residents and ...
+
+Crime Statistics - Georgia Bureau of Investigation
+
+Georgia Bureau of Investigation (.gov)
+https://gbi.georgia.gov › Services
+Georgia's Uniform Crime Reporting (UCR) Program is derived from the Federal Bureau of Investigation's national program.
+
+Crime Stats
+
+Baltimore Police Department
+https://www.baltimorepolice.org › crime-stats
+Use our Public Crime Map to view the location and details of reported crimes. Below the map, you can find preliminary crime data available through Open ...
+
+The Crime Report | Your Complete Criminal Justice Resource
+
+The Crime Report
+https://thecrimereport.org
+In a pivotal legal debate, the DOJ opposes televising Donald Trump's trial, citing the potential impact on judicial proceedings and tradition, while media ...
+
+Murder Accountability Project
+
+Murder Accountability Project
+https://www.murderdata.org
+How many murders does your state report to the FBI? › The rates at which state and local police departments are reporting homicides to the FBI vary alarmingly ...
+
+Salem gun violence report paints grim crime trend
+
+Statesman Journal
+https://www.statesmanjournal.com › crime › 2023/11/20
+2 days ago — Police Chief Trevor Womack said statistics showing a clusters of homicides and shootings in northeast Salem speak to disparity in the ...
+
+Key Statistics
+
+United Against Gun Violence
+https://www.bradyunited.org › key-statistics
+117 people are shot and killed; 210 survive gunshot injuries; 90 are intentionally shot by someone else and survive; 46 are murdered; 67 die from gun suicide ...
+
+Missing and Murdered Indigenous People Crisis
+
+Bureau of Indian Affairs (.gov)
+https://www.bia.gov › service › mmu › missing-and-m...
+For decades, Native American and Alaska Native communities have struggled with high rates of assault, abduction, and murder of women.
+
+New FBI Data Is In: Murder Rates in U.S. Cities, Ranked
+
+The Trace
+https://www.thetrace.org › 2018/04 › highest-murder-...
+Apr 26, 2018 — The national murder rate increased by 29 percent in 2020 as violence surged during the pandemic, new FBI data shows.
+
+Homicide Monitor
+
+Homicide Monitor
+https://homicide.igarape.org.br
+The Homicide Monitor is the most comprehensive publicly available dataset on murder in the world. It is a data-driven data visualization tool designed to ...
+
+Statistical Reports | Chicago Police ...
+
+Chicago Police Department
+https://home.chicagopolice.org › Statistics & Data
+Readers acquainted with UCR guidelines will have a stronger understanding of crime and arrest statistics. Violent Crime, Description. Criminal Homicide (Murder) ...
+
+Homicide report for 2022 shows mixed results in Rochester
+
+Rochester Beacon
+https://rochesterbeacon.com › 2023/02/15 › homicide-...
+Feb 15, 2023 — While the per-capita homicide rate declined last year, Rochester ranked fourth highest among 24 cities tracked by RIT.
+
+Another man was killed and buried without his family's ...
+
+NBC News
+https://www.nbcnews.com › news › us-news › marrio-m...
+16 hours ago — JACKSON, Miss. — Marquita Moore was lying on her sofa at home on the night of Oct. 10 when she got a text from her aunt. It was a link to an ...
+
+Internet Crime Complaint Center(IC3) | Home Page
+Internet Crime Complaint Center (.gov)
+https://www.ic3.gov
+The Internet Crime Complaint Center, or IC3, is the Nation's central hub for reporting cyber crime. It is run by the FBI, the lead federal agency for ...
+
+CDC Report: States With the Highest Homicide Rates in 2020
+
+U.S. News & World Report
+https://www.usnews.com › News › Best States
+Nov 12, 2021 — In 2020, the U.S. experienced the biggest jump in its homicide rate in over a century, but some states saw bigger increases than others.
+
+Black Homicide Victimization in the United States
+
+Violence Policy Center
+https://vpc.org › studies › blackhomicide17
+This study examines the problem of black homicide victimization at the state level by analyzing unpublished. Supplementary Homicide Report (SHR) data for ...
+
+Campus Safety and Security - Office of Postsecondary Education
+
+Office of Postsecondary Education (.gov)
+https://ope.ed.gov › campussafety
+This analysis cutting tool was designed to provide rapid customized reports for public inquiries relating to campus crime and fire data. The data are drawn ...
+
+Police Department Public Crime Reports and Maps
+
+Nashville.gov
+https://www.nashville.gov › police › crime-statistics
+Crime Statistics Recognizing the need for a uniform national set of crime statistics reliable for analysis, the FBI's Uniform Crime Reporting (UCR)...
+
+Intentional homicides (per 100000 people) | Data
+
+World Bank
+https://data.worldbank.org › VC.IHR.PSRC.P5
+UN Office on Drugs and Crime's International Homicide Statistics database. License : CC BY-4.0. LineBarMap. Share Details. Label. 2000 2010 2020 5 6 7 World.
+
+Homicides
+
+Our World in Data
+https://ourworldindata.org › homicides
+by M Roser · 2013 · Cited by 40 — Homicides — when people intentionally and illegally kill others for personal reasons — are the most serious crime. They are a common cause of death ...
