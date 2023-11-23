@@ -3,11 +3,9 @@ from tabulate import tabulate
 import matplotlib.pyplot as plt
 from typing import Tuple, Dict, List
 import numpy as np
-from scipy.stats import mode
 
 def print_tabulate(df: pd.DataFrame):
     print(tabulate(df, headers=df.columns, tablefmt="orgtbl"))
-
 
 def normalize_distribution(dist: np.array, n: int) -> np.array:
     b = dist - min(dist) + 0.000001
@@ -52,33 +50,44 @@ def scatter_group_by(
 def euclidean_distance(p_1: np.array, p_2: np.array) -> float:
     return np.sqrt(np.sum((p_2 - p_1) ** 2))
 
-def k_nearest_neightbors(
-    points: List[np.array], labels: np.array, input_data: List[np.array], k: int
-):
-    input_distances = [
-        [euclidean_distance(input_point, point) for point in points]
-        for input_point in input_data
-    ]
-    points_k_nearest = [
-        np.argsort(input_point_dist)[:k] for input_point_dist in input_distances
-    ]
-    return [
-        mode([labels[index] for index in point_nearest])
-        for point_nearest in points_k_nearest
-    ]
+def k_means(points: List[np.array], k: int):
+    DIM = len(points[0])
+    N = len(points)
+    num_cluster = k
+    iterations = 15
 
-groups = [(20, 20, "grupo1"), (80, 40, "grupo2"), (200, 200, "grupo3")]
+    x = np.array(points)
+    y = np.random.randint(0, num_cluster, N)
+
+    mean = np.zeros((num_cluster, DIM))
+    for t in range(iterations):
+        for k in range(num_cluster):
+            mean[k] = np.mean(x[y == k], axis=0)
+        for i in range(N):
+            dist = np.sum((mean - x[i]) ** 2, axis=1)
+            pred = np.argmin(dist)
+            y[i] = pred
+
+    for kl in range(num_cluster):
+        xp = x[y == kl, 0]
+        yp = x[y == kl, 1]
+        plt.scatter(xp, yp)
+    plt.savefig("img/kmeans_unrelated.png")
+    plt.close()
+    return mean
+
+groups = [(20, 20, "grupo1"), (300, 40, "grupo2"), (200, 200, "grupo3")]
 df = generate_df(groups, 50)
-scatter_group_by("img/groups_unrelated.png", df, "x", "y", "label")
-list_t = [(np.array(tuples[0:1]), tuples[2])
-          for tuples in df.itertuples(index=False, name=None)]
+scatter_group_by("img/clusters_unrelated.png", df, "x", "y", "label")
+list_t = [
+    (np.array(tuples[0:2]), tuples[2])
+    for tuples in df.itertuples(index=False, name=None)
+]
 points = [point for point, _ in list_t]
 labels = [label for _, label in list_t]
-
-kn = k_nearest_neightbors(
+# np.random.seed(0)
+kn = k_means(
     points,
-    labels,
-    [np.array([100, 150]), np.array([1, 1]), np.array([1, 300]), np.array([80, 40])],
-    5,
+    3,
 )
 print(kn)
