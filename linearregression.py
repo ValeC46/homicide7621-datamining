@@ -61,7 +61,7 @@ f = plt.figure(figsize=(10, 10))
 # plt.title('Correlation Matrix', fontsize=16)
 # plt.savefig('img/Correlation.png')
 
-sn.heatmap(correlation, cmap="mako_r", square=True, linewidths=.5, cbar_kws={"shrink": .5}, annot=True, fmt=".2f")
+sn.heatmap(correlation, cmap="Reds", square=True, linewidths=.5, cbar_kws={"shrink": .5}, annot=True, fmt=".2f")
 plt.savefig('img/correlation.png')
 
 correlation.to_csv('csv/Correlation.csv', index=False)

@@ -2,16 +2,14 @@ from wordcloud import WordCloud
 from collections import Counter
 import matplotlib.pyplot as plt
 
-
 def open_file(path: str) -> str:
     content = ""
     with open(path, "r") as f:
         content = f.readlines()
     return " ".join(content)
 
-
 all_words = ""
-frase = open_file("rawtext.txt") # "hola a todos muchas  palabras palabras hola muchas hola hola hola palabras palabras hola muchas hola hola hola palabras palabras hola muchas hola hola hola palabras palabras hola muchas hola hola hola"
+frase = open_file("rawtext.txt") 
 palabras = frase.rstrip().split(" ")
 
 Counter(" ".join(palabras).split()).most_common(10)
@@ -20,9 +18,9 @@ for arg in palabras:
     tokens = arg.split()
     all_words += " ".join(tokens) + " "
 
-print(all_words)
+# print(all_words)
 wordcloud = WordCloud(
-    min_font_size=5, colormap='Reds', mode='RGBA'
+    background_color='black' , min_font_size=5, colormap='Reds'
 ).generate(all_words)
 
 # print(all_words)
@@ -34,5 +32,5 @@ plt.axis("off")
 plt.tight_layout(pad=0)
 
 # plt.show()
-plt.savefig("img/word_cloud.svg")
+plt.savefig("img/word_cloud.png")
 plt.close()
